@@ -1,10 +1,10 @@
-## Overtime App
+# Overtime App
 
 ## Key requirement: company needs documentation that salaried employees did or did not get overtime each week
 
 ## Models
 - Post -> dateLdate rationale:text
-- User -> Devise
+x User -> Devise
 - AdminUser -> STI
 
 ## Features:
