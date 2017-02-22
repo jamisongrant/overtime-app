@@ -1,2 +1,0 @@
-class AduitLogsController < ApplicationController
-end

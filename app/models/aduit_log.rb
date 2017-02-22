@@ -1,2 +1,0 @@
-class AduitLog < ApplicationRecord
-end
