@@ -33,6 +33,3 @@ RSpec.describe AuditLog, type: :model do
     end   
   end
 end
-
-# audit_log_spec.rb
-# audit_log.rb
