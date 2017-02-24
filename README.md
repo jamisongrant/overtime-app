@@ -22,6 +22,7 @@
 - Update buttons sort order on employee homepage
 - Remove unnecessary nav bar buttons for managers
 - Fix admin dashboard bug
+- Implement new relic for keeping
 
 ## TODOS:
 
