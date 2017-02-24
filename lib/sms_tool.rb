@@ -10,6 +10,5 @@ module SmsTool
       to: "+1#{number}",
       body: "#{message}"
     )
-
   end
 end
